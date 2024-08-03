@@ -37,3 +37,5 @@ Before you start, ensure you have the following installed:
 ## API Key
 
 To use the Alpha Vantage API, you'll need an API key. Replace `YOUR_API_KEY` in the code with your actual API key. You can obtain an API key by signing up for a free account at [Alpha Vantage](https://www.alphavantage.co/support/#api-key).
+
+##PLEASE LET ME KNOW IF I CAN ADD ANYTHING AND I'LL TRY MY BEST :)
